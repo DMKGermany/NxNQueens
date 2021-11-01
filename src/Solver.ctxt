@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Solver
+comment0.text=\r\n\ Solver\ class\ for\ the\ queens.\r\n
+comment1.params=noOfQueens
+comment1.target=void\ findAllSolutions(int)
+comment2.params=row
+comment2.target=void\ positionQueens(int)
+comment3.params=row\ col
+comment3.target=boolean\ legal(int,\ int)
+comment4.params=min\ max
+comment4.target=void\ findNoOfSolutions(int,\ int)
+comment5.params=
+comment5.target=void\ printSolution()
+comment6.params=row\ col
+comment6.target=java.lang.String\ convert(int,\ int)
+comment7.params=
+comment7.target=void\ testSolver()
+numComments=8
